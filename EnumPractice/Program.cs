@@ -11,7 +11,7 @@ namespace EnumPractice
     {
         static void Main(string[] args)
         {
-            Myfile file1= new Myfile("picture.txt", 
+            Myfile file1= new Myfile("onepiece.txt", 
                 "C:\\users\\Zakaria", 
                 Rights.READABLE,null);
 
